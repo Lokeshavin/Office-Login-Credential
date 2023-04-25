@@ -1,4 +1,4 @@
-# Office-Login-Credential
+# Office 365-Login-Credential
 
 Username:foobar@agovtest.onmicrosoft.com Password:Jub60350
 
